@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+schedule
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+joblib

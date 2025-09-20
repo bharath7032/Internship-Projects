@@ -1,0 +1,10 @@
+streamlit
+langdetect
+googletrans==4.0.0-rc1
+scikit-learn
+pandas
+numpy
+joblib
+textblob
+nltk
+regex
