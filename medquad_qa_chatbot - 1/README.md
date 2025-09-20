@@ -14,6 +14,9 @@ medquad_qa_chatbot/
 └── data/
     └── MedQuAD-master/    # MedQuAD dataset (download separately)
 
+NOTE: Due to oversize of the dataset it is uploaded separately. you can check it  in the repository as data
+    
+
 ⚙️ Setup
 
 Clone this repo or create the project folder:
@@ -60,5 +63,3 @@ What causes high blood pressure?
 What is leukemia?
 What are the side effects of chemotherapy?
 =======
-# Internship-Projects
->>>>>>> 40776204d4badfa5a58a9a64229b07a5abbaa513
