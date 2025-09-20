@@ -1,0 +1,16 @@
+# Web Framework
+flask
+
+# For Streamlit UI (optional but recommended)
+streamlit
+
+# Data Handling
+pandas
+numpy
+
+# NLP (optional improvements for later, e.g., text search/summarization)
+nltk
+scikit-learn
+
+# JSON / Utilities
+requests

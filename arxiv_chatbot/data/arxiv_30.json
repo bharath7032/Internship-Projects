@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2101.00001",
+    "title": "Deep Learning for Natural Language Processing",
+    "summary": "Explores deep learning models for NLP tasks such as translation and sentiment analysis.",
+    "categories": "cs.CL"
+  },
+  {
+    "id": "2101.00002",
+    "title": "Quantum Computing Basics",
+    "summary": "An introduction to quantum computing concepts, algorithms, and challenges.",
+    "categories": "quant-ph"
+  },
+  {
+    "id": "2101.00003",
+    "title": "Graph Neural Networks in AI",
+    "summary": "Presents advancements in GNNs and their applications in social network analysis.",
+    "categories": "cs.LG"
+  },
+  {
+    "id": "2101.00004",
+    "title": "Computer Vision with Transformers",
+    "summary": "How Vision Transformers (ViTs) are applied to image classification and object detection.",
+    "categories": "cs.CV"
+  },
+  {
+    "id": "2101.00005",
+    "title": "Reinforcement Learning in Robotics",
+    "summary": "Explores RL methods and their applications in robotic control tasks.",
+    "categories": "cs.RO"
+  },
+  {
+    "id": "2101.00006",
+    "title": "Blockchain for Secure Transactions",
+    "summary": "A survey of blockchain technology and its role in secure digital transactions.",
+    "categories": "cs.CR"
+  },
+  {
+    "id": "2101.00007",
+    "title": "Explainable AI in Healthcare",
+    "summary": "Making AI systems more transparent and interpretable in medical decision-making.",
+    "categories": "cs.AI"
+  },
+  {
+    "id": "2101.00008",
+    "title": "Natural Language Generation with GPT Models",
+    "summary": "Text generation using transformer-based models like GPT.",
+    "categories": "cs.CL"
+  },
+  {
+    "id": "2101.00009",
+    "title": "Self-Supervised Learning for Speech Recognition",
+    "summary": "Describes advances in self-supervised methods like wav2vec for speech recognition.",
+    "categories": "cs.SD"
+  },
+  {
+    "id": "2101.00010",
+    "title": "5G and Beyond Wireless Networks",
+    "summary": "Overview of 5G networks and future research directions in 6G.",
+    "categories": "cs.NI"
+  },
+  {
+    "id": "2101.00011",
+    "title": "Image Segmentation with U-Net",
+    "summary": "Discusses medical image segmentation using U-Net architectures.",
+    "categories": "cs.CV"
+  },
+  {
+    "id": "2101.00012",
+    "title": "Cybersecurity Threat Detection with ML",
+    "summary": "Applies machine learning for intrusion and malware detection.",
+    "categories": "cs.CR"
+  },
+  {
+    "id": "2101.00013",
+    "title": "Federated Learning for Privacy",
+    "summary": "A study of federated learning methods to preserve data privacy.",
+    "categories": "cs.LG"
+  },
+  {
+    "id": "2101.00014",
+    "title": "Autonomous Vehicles and Deep Reinforcement Learning",
+    "summary": "Discusses DRL methods for self-driving cars.",
+    "categories": "cs.RO"
+  },
+  {
+    "id": "2101.00015",
+    "title": "Machine Translation with Transformers",
+    "summary": "How transformer models revolutionized translation tasks.",
+    "categories": "cs.CL"
+  },
+  {
+    "id": "2101.00016",
+    "title": "AI in Climate Change Research",
+    "summary": "Explores applications of AI for climate prediction and analysis.",
+    "categories": "cs.AI"
+  },
+  {
+    "id": "2101.00017",
+    "title": "Neural Style Transfer in Art",
+    "summary": "Using convolutional networks to transfer artistic styles.",
+    "categories": "cs.CV"
+  },
+  {
+    "id": "2101.00018",
+    "title": "Big Data Analytics in Healthcare",
+    "summary": "Using AI for healthcare analytics and patient predictions.",
+    "categories": "cs.DB"
+  },
+  {
+    "id": "2101.00019",
+    "title": "IoT Security and Privacy",
+    "summary": "Challenges of securing Internet of Things devices.",
+    "categories": "cs.CR"
+  },
+  {
+    "id": "2101.00020",
+    "title": "Protein Structure Prediction with AI",
+    "summary": "Covers AlphaFold and deep learning for biology.",
+    "categories": "q-bio.BM"
+  },
+  {
+    "id": "2101.00021",
+    "title": "Robotics Path Planning Algorithms",
+    "summary": "Survey of motion planning algorithms for robots.",
+    "categories": "cs.RO"
+  },
+  {
+    "id": "2101.00022",
+    "title": "AI for Drug Discovery",
+    "summary": "Application of ML to discover new medicines.",
+    "categories": "q-bio.QM"
+  },
+  {
+    "id": "2101.00023",
+    "title": "Cloud Computing Security",
+    "summary": "Security models and methods in cloud computing.",
+    "categories": "cs.DC"
+  },
+  {
+    "id": "2101.00024",
+    "title": "Swarm Intelligence in Optimization",
+    "summary": "Particle Swarm Optimization and Ant Colony Optimization explained.",
+    "categories": "cs.NE"
+  },
+  {
+    "id": "2101.00025",
+    "title": "Deepfake Detection Techniques",
+    "summary": "Survey of AI techniques to detect deepfake media.",
+    "categories": "cs.CV"
+  },
+  {
+    "id": "2101.00026",
+    "title": "Ethics of Artificial Intelligence",
+    "summary": "Discusses fairness, accountability, and transparency in AI.",
+    "categories": "cs.CY"
+  },
+  {
+    "id": "2101.00027",
+    "title": "Augmented Reality in Education",
+    "summary": "How AR technologies support learning and training.",
+    "categories": "cs.HC"
+  },
+  {
+    "id": "2101.00028",
+    "title": "Natural Language Understanding Challenges",
+    "summary": "Current challenges in deep semantic understanding of text.",
+    "categories": "cs.CL"
+  },
+  {
+    "id": "2101.00029",
+    "title": "Neural Networks for Stock Market Prediction",
+    "summary": "Using deep learning for time-series forecasting in finance.",
+    "categories": "q-fin.ST"
+  },
+  {
+    "id": "2101.00030",
+    "title": "Human-Robot Interaction",
+    "summary": "Survey of methods enabling natural communication with robots.",
+    "categories": "cs.RO"
+  }
+]
