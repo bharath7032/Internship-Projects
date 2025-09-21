@@ -1,0 +1,29 @@
+question,intent
+hello,greeting
+hi,greeting
+hey there,greeting
+good morning,greeting
+good evening,greeting
+how are you,greeting
+what is your name,identity
+who are you,identity
+tell me about yourself,identity
+bye,goodbye
+see you later,goodbye
+good night,goodbye
+take care,goodbye
+thank you,thanks
+thanks a lot,thanks
+i appreciate it,thanks
+what is ai,ai_info
+explain artificial intelligence,ai_info
+tell me about machine learning,ai_info
+what is deep learning,ai_info
+what is python,programming
+explain python language,programming
+tell me about java,programming
+what is c++,programming
+what is cloud computing,cloud
+tell me about aws,cloud
+what is microsoft azure,cloud
+explain google cloud,cloud
